@@ -46,6 +46,11 @@ val = toFloat64( 4293918720, 0 );
 ```
 
 
+## Notes
+
+*	For more information regarding higher and lower order words, see [math-float64-to-words][math-float64-to-words].
+
+
 ## Examples
 
 ``` javascript
@@ -156,3 +161,4 @@ Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 
 [compute-io]: https://github.com/compute-io/
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
+[math-float64-to-words]: https://github.com/math-io/float64-to-words
