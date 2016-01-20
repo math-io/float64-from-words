@@ -1,6 +1,6 @@
 {
   "name": "math-float64-from-words",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Creates a double-precision floating-point number from a higher order word and a lower order word.",
   "author": {
     "name": "Athan Reines",
